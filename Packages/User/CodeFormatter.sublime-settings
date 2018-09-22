@@ -1,0 +1,8 @@
+{
+	"codeformatter_html_options":
+    {
+    	"syntaxes": "html,blade,asp,xml", 
+    	"indent_size": 2, //
+    	"reduce_whole_word_tags": true
+    }
+}
