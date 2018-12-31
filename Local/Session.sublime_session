@@ -1,16 +1,56 @@
 {
 	"folder_history":
 	[
-		"/D/websites/qushengbox.com",
 		"/D/projects/test",
-		"/D/projects/Orion"
+		"/D/websites/joinMain",
+		"/D/projects/autoPostV2",
+		"/D/projects/react/keywordsManagement",
+		"/D/websites/www.best-boxes.com",
+		"/D/projects/strapi/products",
+		"/D/projects/node-lessons/lesson4",
+		"/D/projects/learnDocs",
+		"/D/projects/strapi/autopostapi",
+		"/D/projects/autoPostApiV2",
+		"/D/projects/Orion",
+		"/D/projects/joinproducts",
+		"/D/websites/plastic-crate.com",
+		"/D/websites/new_joinplastic.com",
+		"/D/projects/gatsby/gatsby-wordpress",
+		"/D/projects/cezerin",
+		"/D/projects/gatsby",
+		"/D/projects/gatsby/gatsby_learn",
+		"/D/projects/gatsby/gatsby-seo-b",
+		"/D/projects/react/react-test",
+		"/D/projects/strapi/strapi-examples/gatsby-strapi-tutorial/blog",
+		"/D/projects/gatsby/new-tutorial-part-four",
+		"/D/projects/gatsby/tutorial-part-four",
+		"/D/projects/gatsby/strapi-examples/gatsby-strapi-tutorial/blog",
+		"/D/projects/strapi/strapi-examples/gatsby-strapi-tutorial/api",
+		"/D/projects/strapi/strapi14",
+		"/D/projects/python/scylla",
+		"/D/projects/OrionBS",
+		"/D/projects/gatsby/tutorial-part-two",
+		"/D/projects/gatsby/hello-world",
+		"/D/projects/strapi14",
+		"/D/projects/strapidev",
+		"/D/projects/strapiempty",
+		"/D/projects/strapi181020",
+		"/D/projects/autoPostWP",
+		"/D/projects/latestStrapi",
+		"/D/projects/react/reactB",
+		"/D/projects/react/reactiontemp",
+		"/D/projects/react/my-app",
+		"/D/projects/react/my-react",
+		"/D/projects/learnDocs/Frontend/bootstrap4_source_code",
+		"/D/projects/strapi_postgres",
+		"/D/websites/qushengbox.com"
 	],
 	"last_version": 3176,
-	"last_window_id": 8,
+	"last_window_id": 113,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 479.333333333,
+		"new_window_height": 560.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -34,16 +74,16 @@
 				"selected_items":
 				[
 					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
 						"reinde",
 						"Indentation: Reindent Lines"
 					],
 					[
 						"ren",
 						"Rename File"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Enable Package"
 					],
 					[
 						"pack",
@@ -83,6 +123,28 @@
 			},
 			"file_history":
 			[
+				"/D/projects/test/testjson.json",
+				"/D/projects/joinproducts/server.js",
+				"/D/websites/plastic-crate.com/wp-content/plugins/theme-customisations/custom/style.css",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (1).xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05.xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (2).xml",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/gatsby-node.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/index.js",
+				"/D/projects/gatsby/gatsby_learn/gatsby-config.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/about.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/user.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/Header/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/article.js",
+				"/D/projects/gatsby/gatsby_learn/src/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/src/templates/blog-post.js",
+				"/D/projects/strapi_postgres/api/email/services/Email.js",
+				"/D/websites/temp/tempphp/index.php",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/D/projects/test/ffff.html",
 				"/D/projects/test/test.html",
 				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/nodejs.sublime-build",
@@ -91,11 +153,11 @@
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 104.0,
 				"where_history":
 				[
 				]
@@ -105,6 +167,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"20"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -121,11 +184,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 27.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 39.3333333333
 			},
 			"menu_visible": true,
 			"output.exec":
@@ -139,7 +202,7 @@
 			"pinned_build_system": "Packages/User/nodejs.sublime-build",
 			"replace":
 			{
-				"height": 0.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -148,6 +211,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						".e",
+						"Orion\\.env"
+					],
+					[
+						"ruleen",
+						"Orion\\public\\javascripts\\ruleEngine.js"
+					]
 				],
 				"width": 0.0
 			},
@@ -173,13 +244,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 232.0,
+			"side_bar_width": 402.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 641.333333333
+		"new_window_width": 1043.33333333
 	},
 	"windows":
 	[
@@ -197,36 +268,10 @@
 			"buffers":
 			[
 				{
-					"file": "/D/projects/test/test111.js",
+					"file": "/D/websites/joinMain/index.html",
 					"settings":
 					{
-						"buffer_size": 140,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/projects/test/test.html",
-					"settings":
-					{
-						"buffer_size": 200,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 13864,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 108,
+						"buffer_size": 3872,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -293,13 +338,32 @@
 			},
 			"expanded_folders":
 			[
-				"/D/projects/test"
+				"/D/websites/joinMain"
 			],
 			"file_history":
 			[
-				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/projects/test/testjson.json",
+				"/D/projects/joinproducts/server.js",
+				"/D/websites/plastic-crate.com/wp-content/plugins/theme-customisations/custom/style.css",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (1).xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05.xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (2).xml",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/gatsby-node.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/index.js",
+				"/D/projects/gatsby/gatsby_learn/gatsby-config.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/about.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/user.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/Header/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/article.js",
+				"/D/projects/gatsby/gatsby_learn/src/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/src/templates/blog-post.js",
+				"/D/projects/strapi_postgres/api/email/services/Email.js",
+				"/D/websites/temp/tempphp/index.php",
 				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
 				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/D/projects/test/ffff.html",
 				"/D/projects/test/test.html",
 				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/nodejs.sublime-build",
@@ -308,11 +372,11 @@
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 104.0,
 				"where_history":
 				[
 				]
@@ -339,133 +403,44 @@
 			"folders":
 			[
 				{
-					"path": "D:\\projects\\test"
+					"path": "D:\\websites\\joinMain"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/projects/test/test111.js",
+							"file": "/D/websites/joinMain/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 140,
+								"buffer_size": 3872,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										71,
-										71
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/projects/test/test.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 200,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										99,
-										99
+										3721,
+										3721
 									]
 								],
 								"settings":
 								{
 									"auto_complete": false,
 									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 13864,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										6677,
-										6646
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 214.0,
+								"translation.y": 1332.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 108,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										100,
-										100
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -473,11 +448,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 27.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 39.3333333333
 			},
 			"layout":
 			{
@@ -511,11 +486,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/User/nodejs.sublime-build",
-			"position": "0,2,3,-32000,-32000,-1,-1,588,51,51,707",
+			"position": "0,2,2,-32000,-32000,-1,-1,693,76,76,1134",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -524,6 +499,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						".e",
+						"Orion\\.env"
+					],
+					[
+						"ruleen",
+						"Orion\\public\\javascripts\\ruleEngine.js"
+					]
 				],
 				"width": 0.0
 			},
@@ -553,12 +536,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 232.0,
+			"side_bar_width": 136.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 4,
+			"window_id": 111,
 			"workspace_name": ""
 		}
 	],

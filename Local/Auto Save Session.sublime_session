@@ -1,16 +1,56 @@
 {
 	"folder_history":
 	[
-		"/D/websites/qushengbox.com",
 		"/D/projects/test",
-		"/D/projects/Orion"
+		"/D/websites/www.best-boxes.com",
+		"/D/websites/joinMain",
+		"/D/projects/autoPostV2",
+		"/D/projects/react/keywordsManagement",
+		"/D/projects/strapi/products",
+		"/D/projects/node-lessons/lesson4",
+		"/D/projects/learnDocs",
+		"/D/projects/strapi/autopostapi",
+		"/D/projects/autoPostApiV2",
+		"/D/projects/Orion",
+		"/D/projects/joinproducts",
+		"/D/websites/plastic-crate.com",
+		"/D/websites/new_joinplastic.com",
+		"/D/projects/gatsby/gatsby-wordpress",
+		"/D/projects/cezerin",
+		"/D/projects/gatsby",
+		"/D/projects/gatsby/gatsby_learn",
+		"/D/projects/gatsby/gatsby-seo-b",
+		"/D/projects/react/react-test",
+		"/D/projects/strapi/strapi-examples/gatsby-strapi-tutorial/blog",
+		"/D/projects/gatsby/new-tutorial-part-four",
+		"/D/projects/gatsby/tutorial-part-four",
+		"/D/projects/gatsby/strapi-examples/gatsby-strapi-tutorial/blog",
+		"/D/projects/strapi/strapi-examples/gatsby-strapi-tutorial/api",
+		"/D/projects/strapi/strapi14",
+		"/D/projects/python/scylla",
+		"/D/projects/OrionBS",
+		"/D/projects/gatsby/tutorial-part-two",
+		"/D/projects/gatsby/hello-world",
+		"/D/projects/strapi14",
+		"/D/projects/strapidev",
+		"/D/projects/strapiempty",
+		"/D/projects/strapi181020",
+		"/D/projects/autoPostWP",
+		"/D/projects/latestStrapi",
+		"/D/projects/react/reactB",
+		"/D/projects/react/reactiontemp",
+		"/D/projects/react/my-app",
+		"/D/projects/react/my-react",
+		"/D/projects/learnDocs/Frontend/bootstrap4_source_code",
+		"/D/projects/strapi_postgres",
+		"/D/websites/qushengbox.com"
 	],
 	"last_version": 3176,
-	"last_window_id": 8,
+	"last_window_id": 115,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 479.333333333,
+		"new_window_height": 560.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -34,16 +74,16 @@
 				"selected_items":
 				[
 					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
 						"reinde",
 						"Indentation: Reindent Lines"
 					],
 					[
 						"ren",
 						"Rename File"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Enable Package"
 					],
 					[
 						"pack",
@@ -83,6 +123,28 @@
 			},
 			"file_history":
 			[
+				"/D/projects/test/testjson.json",
+				"/D/projects/joinproducts/server.js",
+				"/D/websites/plastic-crate.com/wp-content/plugins/theme-customisations/custom/style.css",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (1).xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05.xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (2).xml",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/gatsby-node.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/index.js",
+				"/D/projects/gatsby/gatsby_learn/gatsby-config.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/about.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/user.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/Header/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/article.js",
+				"/D/projects/gatsby/gatsby_learn/src/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/src/templates/blog-post.js",
+				"/D/projects/strapi_postgres/api/email/services/Email.js",
+				"/D/websites/temp/tempphp/index.php",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/D/projects/test/ffff.html",
 				"/D/projects/test/test.html",
 				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/nodejs.sublime-build",
@@ -91,11 +153,11 @@
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 104.0,
 				"where_history":
 				[
 				]
@@ -121,11 +183,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 27.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 39.3333333333
 			},
 			"menu_visible": true,
 			"output.exec":
@@ -139,7 +201,7 @@
 			"pinned_build_system": "Packages/User/nodejs.sublime-build",
 			"replace":
 			{
-				"height": 0.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -148,6 +210,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						".e",
+						"Orion\\.env"
+					],
+					[
+						"ruleen",
+						"Orion\\public\\javascripts\\ruleEngine.js"
+					]
 				],
 				"width": 0.0
 			},
@@ -173,13 +243,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 232.0,
+			"side_bar_width": 136.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 641.333333333
+		"new_window_width": 1043.33333333
 	},
 	"windows":
 	[
@@ -197,34 +267,10 @@
 			"buffers":
 			[
 				{
-					"contents": "const a=\"a\"\n\nfunction bb() {\n    const a =\"b\"\n    console.log(a)\n}\nbb()\nconsole.log(a)\n\n\nfunction function_name(argument) {\n    // body...\n}\n\naa =\"sfak\"\naa =\"sfak\"\naa =\"sfak\"\naa =\"sfak\"\naa =\"sfak\"\naa =\"sfak\"\naa =\"sfak\"\naa =\"sfak\"",
-					"file": "/D/projects/test/test111.js",
-					"file_size": 152,
-					"file_write_time": 131820656547898763,
-					"settings":
-					{
-						"buffer_size": 229,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\"/>\n    <title>Document</title>\n  </meta>\n</head>\n<body>\n  <div>fasdkfas</div>\n  <div>\n    fadskkdiv\n    <div>\n      dkk\n      <p>fdsakflasd</p>\n      <div>fjsdakfla</div>\n      <ul>\n        <li>afd</li>\n        <li>asf</li>\n        <li>asf</li>\n        <li>dasf</li>\n        <li>d</li>\n      </ul>\n    </div>\n  </div>\n</body>\n</html>\n",
 					"file": "/D/projects/test/test.html",
-					"file_size": 427,
-					"file_write_time": 131820681354865470,
 					"settings":
 					{
-						"buffer_size": 401,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 148,
+						"buffer_size": 3105,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -295,9 +341,28 @@
 			],
 			"file_history":
 			[
+				"/D/projects/test/testjson.json",
+				"/D/projects/joinproducts/server.js",
+				"/D/websites/plastic-crate.com/wp-content/plugins/theme-customisations/custom/style.css",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (1).xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05.xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (2).xml",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/gatsby-node.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/index.js",
+				"/D/projects/gatsby/gatsby_learn/gatsby-config.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/about.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/user.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/Header/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/article.js",
+				"/D/projects/gatsby/gatsby_learn/src/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/src/templates/blog-post.js",
+				"/D/projects/strapi_postgres/api/email/services/Email.js",
+				"/D/websites/temp/tempphp/index.php",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
 				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
 				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
 				"/D/projects/test/ffff.html",
 				"/D/projects/test/test.html",
 				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/nodejs.sublime-build",
@@ -310,7 +375,7 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 104.0,
 				"where_history":
 				[
 				]
@@ -320,7 +385,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"aa"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -349,120 +413,33 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/D/projects/test/test111.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 229,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										142,
-										144
-									],
-									[
-										153,
-										155
-									],
-									[
-										164,
-										166
-									],
-									[
-										175,
-										177
-									],
-									[
-										186,
-										188
-									],
-									[
-										197,
-										199
-									],
-									[
-										208,
-										210
-									],
-									[
-										219,
-										221
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
 							"file": "/D/projects/test/test.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 401,
+								"buffer_size": 3105,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										166,
-										166
+										3105,
+										2923
 									]
 								],
 								"settings":
 								{
 									"auto_complete": false,
 									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1548.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 148,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										148,
-										148
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -474,7 +451,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 39.3333333333
 			},
 			"layout":
 			{
@@ -508,7 +485,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/User/nodejs.sublime-build",
-			"position": "0,2,3,-32000,-32000,-1,-1,588,51,51,707",
+			"position": "0,0,1,-1,-1,-1,-1,889,322,151,1380",
 			"project": "",
 			"replace":
 			{
@@ -521,6 +498,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						".e",
+						"Orion\\.env"
+					],
+					[
+						"ruleen",
+						"Orion\\public\\javascripts\\ruleEngine.js"
+					]
 				],
 				"width": 0.0
 			},
@@ -550,12 +535,795 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 232.0,
+			"side_bar_width": 136.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 4,
+			"window_id": 115,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"con",
+						"const〔keyword〕"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/websites/joinMain/index.html",
+					"settings":
+					{
+						"buffer_size": 3872,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"reinde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ren",
+						"Rename File"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/websites/joinMain"
+			],
+			"file_history":
+			[
+				"/D/projects/test/testjson.json",
+				"/D/projects/joinproducts/server.js",
+				"/D/websites/plastic-crate.com/wp-content/plugins/theme-customisations/custom/style.css",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (1).xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05.xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (2).xml",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/gatsby-node.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/index.js",
+				"/D/projects/gatsby/gatsby_learn/gatsby-config.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/about.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/user.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/Header/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/article.js",
+				"/D/projects/gatsby/gatsby_learn/src/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/src/templates/blog-post.js",
+				"/D/projects/strapi_postgres/api/email/services/Email.js",
+				"/D/websites/temp/tempphp/index.php",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/projects/test/ffff.html",
+				"/D/projects/test/test.html",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/nodejs.sublime-build",
+				"/C/Users/luxin/.ssh/id_rsa.pub",
+				"/D/projects/startMongoDB.bat"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\websites\\joinMain"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/websites/joinMain/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3872,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3721,
+										3721
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1332.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 39.3333333333
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 260.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/nodejs.sublime-build",
+			"position": "0,2,3,-32000,-32000,-1,-1,693,76,76,1134",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						".e",
+						"Orion\\.env"
+					],
+					[
+						"ruleen",
+						"Orion\\public\\javascripts\\ruleEngine.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 136.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 111,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"text-a",
+						"text-align\tproperty"
+					],
+					[
+						"ba",
+						"background-color\tproperty"
+					],
+					[
+						"fl",
+						"float\tproperty"
+					],
+					[
+						"wid",
+						"widows\tproperty"
+					],
+					[
+						"con",
+						"const〔keyword〕"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/websites/www.best-boxes.com/wp-content/plugins/theme-customisations/custom/custom.js",
+					"settings":
+					{
+						"buffer_size": 1849,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/websites/www.best-boxes.com/wp-content/plugins/theme-customisations/custom/style.css",
+					"settings":
+					{
+						"buffer_size": 6947,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Searching 17980 files for \"product-val-mm\"\n\nD:\\websites\\www.best-boxes.com\\wp-content\\plugins\\theme-customisations\\custom\\functions.php:\n  172  \t\t\t\t\t\t\t<div class=\"col-sm-3 col-xs-6 br-2-white external-dimension\">\n  173  \t\t\t\t\t\t\t\t<div class=\"table-head bb-2-white\">External Dimensions</div>\n  174: \t\t\t\t\t\t\t\t<div class=\"product-val-mm\"><span class=\"value\">' .$productlenght .'X'. $productwidth  .'X'. $productheight . '</span> <span class=\"pull-right\">mm</span></div>\n  175  \t\t\t\t\t\t\t\t<div class=\"product-val-inch\"><span class=\"value\"> '. round($productlenght*$mmtoinch,2) .'X'.round($productwidth*$mmtoinch,2) .'X'. round($productheight*$mmtoinch,2) .'</span> <span class=\"pull-right\">in</span></div>\n  176  \t\t\t\t\t\t\t</div>\n  177  \t\t\t\t\t\t\t<div class=\"col-sm-3 col-xs-6 br-2-white internal-dimension hidden-xs\">\n  178  \t\t\t\t\t\t\t\t<div class=\"table-head bb-2-white\">Internal Dimensions</div>\n  179: \t\t\t\t\t\t\t\t<div class=\"product-val-mm\"><span class=\"value\">'. $productinnerlength .'X'. $productinnerwidth .'X'. $productinnerheight .'</span> <span class=\"pull-right\">mm</span></div>\n  180  \t\t\t\t\t\t\t\t<div class=\"product-val-inch\"><span class=\"value\">'. round($productinnerlength*$mmtoinch,2) .'X'. round($productinnerwidth*$mmtoinch,2) .'X'. round($productinnerheight*$mmtoinch,2) .'</span> <span class=\"pull-right\">in</span></div>\n  181  \t\t\t\t\t\t\t</div>\n  182  \t\t\t\t\t\t\t<div class=\"col-sm-3 col-xs-6 br-2-white weight hidden-xs\">\n  183  \t\t\t\t\t\t\t\t<div class=\"table-head bb-2-white\">Weight</div>\n  184: \t\t\t\t\t\t\t\t<div class=\"product-val-mm\"><span class=\"value\">'. $productweight . '</span> <span class=\"pull-right\">kg</span></div>\n  185  \t\t\t\t\t\t\t\t<div class=\"product-val-inch\"><span class=\"value\">'. round($productweight*$kgtolbs,2) .'</span> <span class=\"pull-right\">lbs</span></div>\n  186  \t\t\t\t\t\t\t</div>\n  187  \t\t\t\t\t\t\t<div class=\"col-sm-3 col-xs-6 volumn\">\n  188  \t\t\t\t\t\t\t\t<div class=\"table-head bb-2-white\">Volume</div>\n  189: \t\t\t\t\t\t\t\t<div class=\"product-val-mm\"><span class=\"value\">'. $productvolumn . '</span> <span class=\"pull-right\">Liters</span></div>\n  190  \t\t\t\t\t\t\t\t<div class=\"product-val-inch\"><span class=\"value\">'. round($productvolumn*$ltogal,2) .'</span> <span class=\"pull-right\">Us gallon</span></div>\n  191  \t\t\t\t\t\t\t</div>\n\nD:\\websites\\www.best-boxes.com\\wp-content\\plugins\\theme-customisations\\custom\\style.css:\n  224  }\n  225  \n  226: .product-val-mm,\n  227  .product-val-inch {\n  228      padding: 0px 10px 0 4px;\n  ...\n  231  }\n  232  \n  233: .product-val-mm {\n  234      background-color: #eee;\n  235  }\n  ...\n  334  \n  335  @media screen and (max-width: 1000px) and (min-width: 768px) {\n  336:     .product-attributes .product-val-mm,\n  337      .product-attributes .product-val-inch,\n  338:     .product-attributes .product-val-mm,\n  339      .product-attributes .product-val-inch {\n  340          line-height: initial;\n  341      }\n  342:     .product-attributes .product-val-mm span,\n  343      .product-attributes .product-val-inch span,\n  344:     .product-attributes .product-val-mm span,\n  345      .product-attributes .product-val-inch span {\n  346          line-height: 31.5px;\n  ...\n  348      }\n  349      .product-attributes .product-val-inch span:first-child,\n  350:     .product-attributes .product-val-mm span:first-child {\n  351          font-size: 12px;\n  352      }\n\n11 matches across 2 files\n",
+					"settings":
+					{
+						"buffer_size": 3305,
+						"line_ending": "Windows",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/D/websites/www.best-boxes.com/wp-content/plugins/theme-customisations/custom/functions.php",
+					"settings":
+					{
+						"buffer_size": 8427,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"reinde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ren",
+						"Rename File"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/websites/www.best-boxes.com",
+				"/D/websites/www.best-boxes.com/wp-content",
+				"/D/websites/www.best-boxes.com/wp-content/plugins",
+				"/D/websites/www.best-boxes.com/wp-content/plugins/theme-customisations",
+				"/D/websites/www.best-boxes.com/wp-content/plugins/theme-customisations/custom",
+				"/D/websites/www.best-boxes.com/wp-content/themes",
+				"/D/websites/www.best-boxes.com/wp-content/themes/giga-store",
+				"/D/websites/www.best-boxes.com/wp-content/themes/giga-store/woocommerce",
+				"/D/websites/www.best-boxes.com/wp-content/themes/giga-store/woocommerce/single-product"
+			],
+			"file_history":
+			[
+				"/D/projects/test/testjson.json",
+				"/D/projects/joinproducts/server.js",
+				"/D/websites/plastic-crate.com/wp-content/plugins/theme-customisations/custom/style.css",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (1).xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05.xml",
+				"/C/Users/luxin/Downloads/plastic-cratecom.wordpress.2018-12-05 (2).xml",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/gatsby-node.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/layouts/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/index.js",
+				"/D/projects/gatsby/gatsby_learn/gatsby-config.js",
+				"/D/projects/gatsby/gatsby_learn/src/pages/about.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/user.js",
+				"/D/projects/gatsby/gatsby_learn/src/components/Header/index.js",
+				"/D/projects/gatsby/gatsby_learn/src/templates/article.js",
+				"/D/projects/gatsby/gatsby_learn/src/layouts/index.css",
+				"/D/projects/gatsby/gatsby_learn/src/templates/blog-post.js",
+				"/D/projects/strapi_postgres/api/email/services/Email.js",
+				"/D/websites/temp/tempphp/index.php",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/CodeFormatter.sublime-settings",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/projects/test/ffff.html",
+				"/D/projects/test/test.html",
+				"/C/Users/luxin/AppData/Roaming/Sublime Text 3/Packages/User/nodejs.sublime-build",
+				"/C/Users/luxin/.ssh/id_rsa.pub",
+				"/D/projects/startMongoDB.bat"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+					"D:\\websites\\www.best-boxes.com\\wp-content"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gallon",
+					"Gallon",
+					"round(",
+					"product-val-mm"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\websites\\www.best-boxes.com"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/websites/www.best-boxes.com/wp-content/plugins/theme-customisations/custom/custom.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1849,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1845,
+										1845
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 540.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/websites/www.best-boxes.com/wp-content/plugins/theme-customisations/custom/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6947,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5534,
+										5534
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5940.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3305,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												316,
+												330
+											],
+											[
+												906,
+												920
+											],
+											[
+												1499,
+												1513
+											],
+											[
+												1922,
+												1936
+											],
+											[
+												2326,
+												2340
+											],
+											[
+												2436,
+												2450
+											],
+											[
+												2613,
+												2627
+											],
+											[
+												2711,
+												2725
+											],
+											[
+												2860,
+												2874
+											],
+											[
+												2968,
+												2982
+											],
+											[
+												3199,
+												3213
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"default_dir": "D:\\websites\\www.best-boxes.com\\wp-content\\themes\\giga-store\\woocommerce",
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([^ \t].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/websites/www.best-boxes.com/wp-content/plugins/theme-customisations/custom/functions.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8427,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3944,
+										3944
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2538.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 39.3333333333
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 260.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/nodejs.sublime-build",
+			"position": "0,2,3,-32000,-32000,-1,-1,668,51,51,1109",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						".e",
+						"Orion\\.env"
+					],
+					[
+						"ruleen",
+						"Orion\\public\\javascripts\\ruleEngine.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 235.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 114,
 			"workspace_name": ""
 		}
 	],
